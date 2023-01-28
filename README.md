@@ -1,5 +1,8 @@
 # docker-webNUT
 
+Forked from https://github.com/teknologist/docker-webnut
+
+**Chenged Dockerfile to work on RPI / arm32v7 Hosts**
 
 webNUT (UPS network monitoring web ui) dockerized.
 

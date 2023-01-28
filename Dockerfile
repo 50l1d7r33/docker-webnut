@@ -1,4 +1,4 @@
-FROM python:2.7
+FROM arm32v7/python:2.7
 MAINTAINER Eric Taieb Walch <teknologist@gmail.com>
 
 RUN mkdir /app && \
